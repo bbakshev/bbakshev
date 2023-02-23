@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Bri</h1>
+# [![Hi, I'm Bri](https://readme-typing-svg.demolab.com/?color=%2336BCF7&size=25+&duration=2000&center=true&vCenter=true&multiline=true&width=175&height=40&lines=Hi%2C+I'm+Bri!;+;+)](https://www.benjamin.michaelis.net)  <a href="https://www.benjamin.michaelis.net"> <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/gifs/wave.gif" width="30px"> </a>
+
+<h3 align="center">I'm a full-time software engineering student based in Seattle, Washington at Epicodus, and part-time adventure seeker/traveler. In my free time I love the outdoors, being active, as well as connecting with friends and family.</h3>
+
+- 🌱 I’m currently learning **C# and .NET**
+
+- ⚡ Fun fact **I speak 4 languages: English, Farsi, Russian, Hindi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
