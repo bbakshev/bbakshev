@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bri</h1>
-<h3 align="center">I'm a young, passionate and enthusiastic Software Engineer looking to change the world through the use of technology.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbakshev&label=Profile%20views&color=0e75b6&style=flat" alt="bbakshev" /> </p>
 
 <h3 align="left">Connect with me:</h3>
