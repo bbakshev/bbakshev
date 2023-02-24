@@ -13,7 +13,9 @@ class SoftwareEngineer {
   }
   
   about_me() {
-    console.log("I am a full-time software engineering student based in Seattle, Washington at Epicodus, and part-time adventure seeker/traveler. In my free time I love the outdoors, being active, as well as connecting with friends and family");
+    console.log("I am a full-time software engineering student based in Seattle, Washington at Epicodus, 
+    and part-time adventure seeker/traveler. 
+    In my free time I love the outdoors, being active, as well as connecting with friends and family");
   }
 }
 ```
