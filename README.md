@@ -1,4 +1,4 @@
-# [![Hi, I'm Bri](https://readme-typing-svg.demolab.com/?color=%2336BCF7&size=25+&duration=2000&center=true&vCenter=true&multiline=true&width=175&height=40&lines=Hi%2C+I'm+Bri!;+;+)](https://www.benjamin.michaelis.net)  <a href="https://www.benjamin.michaelis.net"> <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/gifs/wave.gif" width="30px"> </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Bri!)](https://git.io/typing-svg)
 
 <p align="center">I'm a full-time software engineering student based in Seattle, Washington at Epicodus, and part-time adventure seeker/traveler. In my free time I love the outdoors, being active, as well as connecting with friends and family.</p>
 
