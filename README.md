@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Bri!)](https://git.io/typing-svg)
 
-<p align="center">I'm a full-time software engineering student based in Seattle, Washington at Epicodus, and part-time adventure seeker/traveler. In my free time I love the outdoors, being active, as well as connecting with friends and family.</p>
-
 ```javascript
 class SoftwareEngineer {
   constructor() {
@@ -12,6 +10,10 @@ class SoftwareEngineer {
   
   say_hi() {
     console.log("Thanks for dropping by, hope you find some of my work interesting.");
+  }
+  
+  about_me() {
+    console.log("I am a full-time software engineering student based in Seattle, Washington at Epicodus, and part-time adventure seeker/traveler. In my free time I love the outdoors, being active, as well as connecting with friends and family");
   }
 }
 ```
