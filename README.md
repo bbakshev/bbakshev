@@ -31,7 +31,7 @@ class SoftwareEngineer {
 
 <h3 align="left">🔧 Technologies & Tools</h3>
 
-<img src="https://devicon-website.vercel.app/api/babel/original.svg" width="30" height="40" />
+<img src="https://devicon-website.vercel.app/api/babel/original.svg" width="50" height="60" />
 
 --- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbakshev&show_icons=true&locale=en&layout=compact" alt="bbakshev" /></p>
