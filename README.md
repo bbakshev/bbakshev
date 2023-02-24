@@ -2,9 +2,17 @@
 
 <p align="center">I'm a full-time software engineering student based in Seattle, Washington at Epicodus, and part-time adventure seeker/traveler. In my free time I love the outdoors, being active, as well as connecting with friends and family.</p>
 
-- 🌱 I’m currently learning **C# and .NET**
-
-- ⚡ Fun fact **I speak 4 languages: English, Farsi, Russian, Hindi**
+class SoftwareEngineer {
+  constructor() {
+    this.name = "Bri Bakshev";
+    this.role = "Software Engineer";
+    this.language_spoken = ["English", "Farsi", "Russian", "Hindi"];
+  }
+  
+  say_hi() {
+    console.log("Thanks for dropping by, hope you find some of my work interesting.");
+  }
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
