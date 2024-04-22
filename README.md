@@ -1,24 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Bri!)](https://git.io/typing-svg)
-
-```javascript
-class SoftwareEngineer {
-  constructor() {
-    this.name = "Bri Bakshev";
-    this.role = "Software Engineer";
-    this.language_spoken = ["English", "Farsi", "Russian", "Hindi"];
-  }
-  
-  say_hi() {
-    console.log("Thanks for dropping by, hope you find some of my work interesting.");
-  }
-  
-  about_me() {
-    console.log("I am a full-time software engineering student based in Seattle, Washington at Epicodus, 
-    and part-time adventure seeker/traveler. In my free time I love the outdoors, being active, playing vidoe games, 
-    film photography, as well as connecting with friends and family");
-  }
-}
-```
 --- 
 
 <h3 align="left">🔗 Connect with me:</h3>
